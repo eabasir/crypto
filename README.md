@@ -7,7 +7,7 @@ some utilities to work around the cryptography
 encrypt/decrypt a message or a file using XOR method
 
 ```
-   xor [-f] [file] -k cipher_key [-d]
+   xor [-f file] -k cipher_key [message]
 ```
 
 use `d` option to decrypt the message/file
